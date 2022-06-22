@@ -1,6 +1,7 @@
 # Graphics-and-Visualization
 
 #How do I approach designing software?
+
 ##What new design skills has your work on the project helped you to craft?
 
 I have learned alot of things desgining through openGL, I never though I will learn to craft 2 dimensional and 3 dimensional structures with its own lighting and ofcourse manipulation of these objects. I learned alot about how to build primitive objects and set their own position, camera view, projection and rotation. 

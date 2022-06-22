@@ -12,6 +12,8 @@ The desgin process that I follow in my projects in order to achieve the desginin
 
 ## How could tactics from your design approach be applied in future work?
 
+The tactics in software desgining that I have used here that can be used for future work are basically the improvements in my analyses and planing of the software before I implemented into code which helps me to effeciently build my software better each time and I think having this tactics in mind can help me in future work.
+
 # How do I approach developing programs?
 ## What new development strategies did you use while working on your 3D scene?
 
